@@ -27,7 +27,7 @@
     "vite": "7.3.2",
     "vite-plugin-singlefile": "2.3.0"
   },
-  "description": "Pipe Dream, le puzzle de tuyaux contre le temps : tournez les raccords, reliez l'entrée à la sortie et ouvrez la valve avant que l'eau ne déborde. Neuf niveaux.",
+  "description": "Plomberie de Rêve, le puzzle de tuyaux contre le temps : tournez les raccords, reliez l'entrée à la sortie et ouvrez la valve avant que l'eau ne déborde. Neuf niveaux.",
   "license": "AGPL-3.0-or-later",
   "author": "Geoffroy (Hylst)"
 }

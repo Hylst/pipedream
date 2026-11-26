@@ -589,7 +589,7 @@ export default function App() {
       <div className="relative mx-auto flex min-h-screen w-full max-w-7xl flex-col px-3 py-4 sm:px-6 lg:px-8">
         <header className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-3 border-b border-cyan-200/10 pb-4">
           <div>
-            <p className="text-sm font-semibold uppercase tracking-[0.32em] text-cyan-200/80">Pipe Dream</p>
+            <p className="text-sm font-semibold uppercase tracking-[0.32em] text-cyan-200/80">Plomberie de Rêve</p>
             <h1 className="mt-1 text-2xl font-black tracking-tight text-white sm:text-4xl">
               Contre la valve inondante
             </h1>

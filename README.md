@@ -1,12 +1,12 @@
-# Pipe Dream
+# Plomberie de Rêve
 
 **Contre la valve inondante.**
 
-Pipe Dream, le puzzle de tuyaux contre le temps : tournez les raccords, reliez l'entrée à la sortie et ouvrez la valve avant que l'eau ne déborde. Neuf niveaux.
+Plomberie de Rêve, le puzzle de tuyaux contre le temps : tournez les raccords, reliez l'entrée à la sortie et ouvrez la valve avant que l'eau ne déborde. Neuf niveaux.
 
 Joue ici : [games.hylst.fr/pipedream/](https://games.hylst.fr/pipedream/)
 
-![Pipe Dream](og-image.png)
+![Plomberie de Rêve](og-image.png)
 
 ## Comment on joue
 
